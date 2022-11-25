@@ -11671,7 +11671,7 @@ textarea.form-control {
   background: url(../imgs/banner.jpg) no-repeat center top fixed;
   background-size: cover;
   height: 450px;
-  background-position-y: -4em
+  background-position-y: -15em
 }
 
 @media (max-width: 767.98px) {
