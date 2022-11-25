@@ -12227,7 +12227,26 @@ section .section-secondary-title {
   background: url('../imgs/messages/DEVOLUCIONES-10.png') !important;
   background-size: cover !important;
 }
-
+.background-image-9{
+  background: url('../imgs/messages/DEVOLUCIONES-11.png') !important;
+  background-size: cover !important;
+}
+.background-image-10{
+  background: url('../imgs/messages/DEVOLUCIONES-12.png') !important;
+  background-size: cover !important;
+}
+.background-image-11{
+  background: url('../imgs/messages/DEVOLUCIONES-13.png') !important;
+  background-size: cover !important;
+}
+.background-image-12{
+  background: url('../imgs/messages/DEVOLUCIONES-14.png') !important;
+  background-size: cover !important;
+}
+.background-image-13{
+  background: url('../imgs/messages/DEVOLUCIONES-15.png') !important;
+  background-size: cover !important;
+}
 .show{
   display: block;
 }

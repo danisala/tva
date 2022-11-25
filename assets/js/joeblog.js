@@ -42,6 +42,11 @@ function sumar(){
         "background-image-6",
         "background-image-7",
         "background-image-8",
+        "background-image-9",
+        "background-image-10",
+        "background-image-11",
+        "background-image-12",
+        "background-image-13",
     ];
     document.querySelector(".screen").classList.remove(...cls);
 
