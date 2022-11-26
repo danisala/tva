@@ -11868,7 +11868,7 @@ section .section-secondary-title {
   background: #000;
   border-radius: 28px;
   padding: 12px;
-  width: 285px;
+  width: 250px;
   min-height: 200px;
   box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   position: relative;
@@ -12204,55 +12204,55 @@ section .section-secondary-title {
 
 .background-image-1{
   background: url('../imgs/messages/DEVOLUCIONES-02.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-2{
   background: url('../imgs/messages/DEVOLUCIONES-03.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-3{
   background: url('../imgs/messages/DEVOLUCIONES-04.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-4{
   background: url('../imgs/messages/DEVOLUCIONES-05.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-5{
   background: url('../imgs/messages/DEVOLUCIONES-06.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-6{
   background: url('../imgs/messages/DEVOLUCIONES-07.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-7{
   background: url('../imgs/messages/DEVOLUCIONES-09.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-8{
   background: url('../imgs/messages/DEVOLUCIONES-10.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-9{
   background: url('../imgs/messages/DEVOLUCIONES-11.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-10{
   background: url('../imgs/messages/DEVOLUCIONES-12.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-11{
   background: url('../imgs/messages/DEVOLUCIONES-13.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-12{
   background: url('../imgs/messages/DEVOLUCIONES-14.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .background-image-13{
   background: url('../imgs/messages/DEVOLUCIONES-15.png') !important;
-  background-size: cover !important;
+  background-size: 100% 100% !important;
 }
 .show{
   display: block;
