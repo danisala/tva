@@ -60,6 +60,7 @@ function sumar(){
 
 
 document.getElementById("notification").addEventListener("click", modal);
+document.getElementById("close").addEventListener("click", modal);
 let open = false
 function modal(){
     const clases = [

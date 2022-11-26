@@ -11887,13 +11887,14 @@ section .section-secondary-title {
   position: absolute;
   bottom: 1rem;
   display: flex;
+  width: 88%;
 }
 .phone .screen .screen-menu .icon-wrap {
   flex: 1;
 }
 .phone .screen .screen-menu .icon-wrap .icon {
-  width: 40px;
-  height: 40px;
+  width: 20px;
+  height: 20px;
   background: transparent;
   border-radius: 6px;
   display: flex;
@@ -12005,10 +12006,16 @@ section .section-secondary-title {
   border-radius: 1rem;
 }
 .phone.ios .screen-menu .icon-wrap:nth-of-type(1) .icon {
+  background-image: url('../imgs/close.png'), linear-gradient(170deg, transparent 0%, transparent 100%);
+  background-repeat: no-repeat, repeat;
+  background-position: center center;
+  background-size: 100%, 100%;
+}
+.phone.ios .screen-menu .icon-wrap:nth-of-type(2) .icon {
   background-image: url('../imgs/arrow.png'), linear-gradient(170deg, transparent 0%, transparent 100%);
   background-repeat: no-repeat, repeat;
   background-position: center center;
-  background-size: 50%, 100%;
+  background-size: 100%, 100%;
 }
 .phone.ios:before {
   content: "";
@@ -12188,7 +12195,7 @@ section .section-secondary-title {
 
 
 .container-phone{
-  position: absolute;
+  position: fixed;
   z-index: 9999999999;
   right: 10%;
   top: 5em;
