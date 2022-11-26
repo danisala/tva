@@ -12254,3 +12254,14 @@ section .section-secondary-title {
 .hide{
   display: none;
 }
+
+.devoluciones{
+  color: rgb(156 157 163 / 99%);
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
